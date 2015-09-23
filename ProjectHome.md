@@ -1,0 +1,1 @@
+Give various input for testing and it gives all combinations of test case.
